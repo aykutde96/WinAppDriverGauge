@@ -1,0 +1,31 @@
+Created by testinium on 2.04.2021
+
+This is a concept file with following syntax for each concept.
+# Dosyayı kaydetme
+* "Kapat" elementine tıklandı
+* "Kaydetme" elementine tıklandı
+
+#Dosyayı <key> ismiyle kaydet
+* "Kapat" elementine tıklandı
+* "Kaydet" elementine tıklandı
+* "Masaüstü (sabitlenmiş)" elementine tıklandı
+* Dosyaya <key> adı verildi
+* "Kaydet" elementine tıklandı
+
+#Yazı <key> haline getirildi
+* "Biçim" elementine tıklandı
+* "Yazı Tipi..." elementine tıklandı
+* <key> elementine tıklandı
+* "Tamam" elementine tıklandı
+
+#Yazı <key> boyutuna getirildi
+* "Biçim" elementine tıklandı
+* "Yazı Tipi..." elementine tıklandı
+* <key> elementine tıklandı
+* "Tamam" elementine tıklandı
+
+#Yazı tipi <key> yapıldı
+* "Biçim" elementine tıklandı
+* "Yazı Tipi..." elementine tıklandı
+* <key> elementine tıklandı
+* "Tamam" elementine tıklandı
